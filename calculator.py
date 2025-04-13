@@ -2,7 +2,6 @@
 
 def add(a, b):
 
-    #add comment
-    c=a
+    c=b
 
     return a + b

@@ -1,5 +1,5 @@
 # file: calculator.py
 
 def add(a, b):
-    c=a
+    c=b
     return a + b
